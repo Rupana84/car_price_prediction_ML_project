@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+joblib
+flask
+seaborn
+imblearn
+flask>=3.0
+flask-jwt-extended>=4.6
+pandas
+scikit-learn
+joblib

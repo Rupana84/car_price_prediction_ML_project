@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+*.sqlite3
+.venv/
+venv/
+backend.venv/
+.env
+
+# Node / React
+node_modules/
+build/
+dist/
+npm-debug.log*
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+*.iml
